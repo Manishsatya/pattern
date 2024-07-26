@@ -11,6 +11,9 @@ class FullPattern{
 	        while (true) {
 	            System.out.println("Enter Text");
 	            s = sc.nextLine();
+	            
+	            
+	            
 
 	            
 
