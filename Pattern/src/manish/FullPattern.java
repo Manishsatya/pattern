@@ -12,11 +12,6 @@ class FullPattern{
 	            System.out.println("Enter Text");
 	            s = sc.nextLine();
 	            
-	            
-	            
-
-	            
-
 	            for (i = 0; i < n; i++) {
 	                for (char c : s.toCharArray()) {
 	                    for (j = 0; j < n; j++) {
